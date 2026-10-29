@@ -6,8 +6,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/ItsCookie177/owo-hunt-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-owo-hunt-app-dark.svg"><img src="assets/project-owo-hunt-app-light.svg" width="49%" alt="owo-hunt-app"></picture></a>&nbsp;<a href="https://github.com/ItsCookie177/owo-macro-dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-owo-macro-dashboard-dark.svg"><img src="assets/project-owo-macro-dashboard-light.svg" width="49%" alt="owo-macro-dashboard"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
