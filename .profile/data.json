@@ -1,5 +1,5 @@
 {
- "key": "f6ff7b16",
+ "key": "3f6fd47c",
  "stars": 0,
  "contributions": 70,
  "repos": 4,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "Kotlin",
-   227189
+   266895
   ],
   [
    "TypeScript",
@@ -139,7 +139,7 @@
    "text": "Xposed module: rename displayed WiFi titles (Settings/SystemUI) without touching real SSIDs",
    "fork": false,
    "stars": 0,
-   "language": "Java",
+   "language": "Kotlin",
    "topics": []
   },
   {
